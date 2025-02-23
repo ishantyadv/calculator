@@ -1,0 +1,26 @@
+.calculator{
+  border: 2px solid red;
+
+  width: 200px;
+  border-radius: 5px;
+  margin-top: 100px;
+  background-color: black;
+}
+
+.buttonscontainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.buttons{
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+}
+h2{
+  color: aquamarine;
+  background-color: black;
+  width: 200px;
+  
+}
